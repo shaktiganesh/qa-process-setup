@@ -3,7 +3,7 @@
 ## Where would you start?What would be your first steps?
   Assuming the REST API is a separate micro service and is part of the cross functional team for which the QA process is to be established,
   
- Initial steps would be to come up with a high level test strategy and test plans to test the front end application and REST API  independently and integration between the two.
+ Initial steps would be to come up with a high level test strategy and test plans to test the front end application and REST API independently and integration between the two.
   
  In which few of the important factors to be considered are 
 1)Analyse overall QA scope, recruitment of testers (if needed based on skillset) ,integration of QA early in the workflow
@@ -18,7 +18,7 @@
 
 For the REST API,
 - TDD + BDD approach to add new functionalities and test them to the product
--Good to have the unit tests(by dev) and the automated behavior tests(by QA team) in the same code base. 
+-Good to have the unit tests(by dev) and the automated behavior tests(by QA team) in the same code base to enable continous    delivery smoothly
 -New features to be tested will be added as the automated behavior tests within the same sprint by QA team
 -QA workflow in the sprint- grooming/planning,develop automated behavior tests/run test suite, defect management, QA sign off
 -100% automation of the new features in the same sprint should be feasible for the REST API tests.

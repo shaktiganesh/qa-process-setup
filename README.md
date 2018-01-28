@@ -25,6 +25,7 @@ knowledge
 ## Which process would you establish around testing new functionality? How would you want the features to be tested
 
 For the REST API,
+
 ● TDD + BDD approach to add new functionalities and test them to the product
 
 ● Good to have the unit tests(by dev) and the automated behavior tests(by QA team) in the same code base to enable continous    delivery smoothly
@@ -36,6 +37,7 @@ For the REST API,
 ● 100% automation of the new features in the same sprint should be feasible for the REST API tests.
 
 For the front end application
+
 ● Combination of Manual testing + Automation in the sprint for new functionalities
 
 ● Manual team -to test the new functionalities manually within the sprint

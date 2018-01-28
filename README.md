@@ -6,8 +6,12 @@
  Initial steps would be to come up with a high level test strategy and test plans to test the front end application and REST API independently and integration between the two.
   
  In which few of the important factors to be considered are 
+ 
 ● Analyse overall QA scope, recruitment of testers (if needed based on skillset) ,integration of QA early in the workflow
-● Effective communication between cross functional teams(show and tell with PO etc), QA to gain the maximum functional    knowledge
+
+● Effective communication between cross functional teams(show and tell with PO etc), QA to gain the maximum functional    
+knowledge
+
 ● Tools,scope for early/in sprint automation, define test scope, test cases/scripts 
 ● QA environments to be setup
 ● Frameworks, language
